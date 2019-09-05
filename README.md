@@ -1,1 +1,1 @@
-# logistic-regression-classifier
+# cat-recogniser
